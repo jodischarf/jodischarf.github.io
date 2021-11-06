@@ -14,7 +14,7 @@ navbar:
     - icon: fab fa-linkedin
       href: https://www.linkedin.com/in/jodischarf/ 
     - icon: fa-github fa-lg
-      href: http://github.com/jodischarf>/
+      href: http://github.com/jodischarf/
 output:
   html_document:
     theme: sandstone
