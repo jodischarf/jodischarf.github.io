@@ -9,8 +9,10 @@ navbar:
       href: plotly.html
     - text: "Dashboard"
       href: dashboard.html
-    - icon: fa-envelope fa-lg
+    - icon: fa-paper-plane fa-lg
       href: mailto:<jodi.scharf@columbia.com>
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/jodischarf/ 
     - icon: fa-github fa-lg
       href: http://github.com/jodischarf>/
 output:

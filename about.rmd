@@ -1,11 +1,112 @@
 ---
-title: "About me"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
+<br>
 
-# This page has information about me
+## Education
 
-I am an MPH student.
+**Columbia University, Mailman School of Public Health** <br>
+Master of Public Health, Heilbrunn Department of Population and Family Health <br>
+_Certificate in Public Health Research Methods_ <br>
+Expected May 2022 <br>
+
+**Brown University** <br>
+_Bachelor of Arts, Contemplative Studies (Sciences Track)_<br>
+May 2019 <br> <br>
+
+## Research Experience
+
+**International Rescue Committee** (New York, NY) <br>
+<p>_**Violence Research Intern** (PI: Kathryn Falb, PhD & Alexandra Blackwell, MPH)_ <span style="float:right;">April 2021 – Present</span></p>
+*	Cleaned, managed, and analyzed quantitative data from pre- and post-assessments of a pilot feasibility and acceptability intervention study for 200+ community health workers during COVID in Kenya and Uganda using SPSS 
+*	Coded and conducted qualitative data analyses of 12 formative interviews with older persons and people with disabilities in various LMICs and 65 brief interviews with teachers and caregivers in South Sudan using Dedoose 
+*	Summarized quantitative and qualitative data through charts and graphs, wrote practitioner-focused blog posts, and prepared and presented 3 presentations to internal research and on-site teams 
+*	Developed practitioner-focused briefs for a study looking at new approaches to ensure safe school environments for children and adolescents in South Sudan <br> <br>
+
+**Population & Family Health Department** (Columbia University, NY) <br>
+<p>_**Practicum Placement** (PI: Samantha Garbers, PhD & Melanie Gold, MD)_ <span style="float:right;">April 2021 – September 2021</span></p>
+*	Prepared an IRB proposal and conducted quantitative data analysis for a brief mind-body program for healthcare staff in the Pediatric Emergency Department of Morgan Stanley Children’s Hospital
+*	Summarized data in the form of an abstract, poster, and manuscript
+*	Coded 10 formative qualitative interviews for development and pilot testing of a comprehensive sleep intervention for adolescents in urban school-based health centers using N.Vivo
+*	Revised group scripts and curricula around mindfulness-based activities
+*	Contributed to the development, formatting, and implementation of surveys in REDCap <br> <br>
+
+**Brown University School of Public Health** (Providence, RI) <br>
+<p>_**Research Assistant - Mindfulness and Cardiovascular Health Lab** (PI: Eric Loucks, PhD)_ <span style="float:right;">June 2016 – May 2020</span></p>
+*	Screened 1,000+ abstracts and 500+ full-texts of studies, extracted data, and evaluated risk of bias for 2 systematic reviews and 1 meta-analysis on mental and physical health outcomes of mindfulness-based interventions
+*	Recruited 60+ participants, conducted pre- and post-assessments, and entered participant data 
+*	Assisted with the implementation of an 8-week pilot trial and RCT for a mindfulness-based college intervention which developed into an established intervention conducted every subsequent semester <br> <br>
+
+**Brown University** (Providence, RI) <br>
+<p>_**Research Assistant - Clinical and Affective Neuroscience Lab** (PI: Willoughby Britton, PhD)_ <span style="float:right;">May 2017 – December 2019</span></p>
+*	Coded and extracted data for 3 systematic reviews and meta-analyses examining the impact of mindfulness on self-regulation through emotion, self-related, and cognitive domains using SRDR (Systematic Review Data Repository); reviewed and commented on manuscript drafts <br> <br>
+
+## Public Health Work Experience
+
+**Population & Family Health Department** (Columbia University, NY) <br>
+<p>_**Graduate Teaching Assistant**_ <span style="float:right;">September 2021 – Present</span></p>
+*	Course: POPF P8623 - Quantitative Data Analysis: Service-Based Research II
+*	Provide feedback and guidance to 38 students, host weekly office hours, attend weekly lectures and TA meetings, pilot homework and exams, and grade weekly assignments involving SPSS <br> <br>
+
+**ICAP (International Center for AIDS Care and Treatment Programs)** (Columbia University, NY) <br>
+<p>_**Data Analyst Intern**_ <span style="float:right;">June 2021 – September 2021</span></p>
+*	Cleaned and managed datasets, conducted statistical analyses using SAS, and assisted in database infrastructure maintenance activities 
+*	Ran and improved reports for return of participant HIV lab results using Excel, SAS, and DHIS (District Health Information Software) 
+*	Reviewed 14 IRB protocols for consistency in data collection and sharing; assisted with protocol changes <br> <br>
+
+**B’Well Health Promotions** (Brown University, RI) <br>
+<p>_**Student Wellness Coordinator**_ <span style="float:right;">January 2017 – May 2019</span></p>
+*	Developed, managed, and facilitated 1-2 interactive weekly workshops and trainings for students and staff related to stress management, sleep hygiene, mindfulness, and alcohol and drug use
+*	Provided support for the implementation of 2-3 large scale campus wellbeing events per semester <br> <br>
+
+**B’Well Health Promotions** (Brown University, RI) <br>
+<p>_**Student Wellness Coordinator**_ <span style="float:right;">January 2017 – May 2019</span></p>
+*	Developed, managed, and facilitated 1-2 interactive weekly workshops and trainings for students and staff related to stress management, sleep hygiene, mindfulness, and alcohol and drug use
+*	Provided support for the implementation of 2-3 large scale campus wellbeing events per semester <br> <br>
+
+**Brown University Science Center** (Brown University, RI) <br>
+<p>_**Writer and Animator**_ <span style="float:right;">January 2017 – May 2019</span></p>
+*	Wrote scripts, designed graphics, and worked on animation for 6 science features on a team of animation and science students and faculty <br> <br>
+
+**Biology and Medicine Research Administration** (Warren Alpert Medical School, Brown University, RI) <br>
+<p>_**Office Assistant**_ <span style="float:right;">May 2016 – August 2017</span></p>
+*	Organized and maintained accounts and records of pre-award and post-award research grants and proposals involving research and training using Excel
+*	Communicated with faculty, staff, and students to ensure compliance with university, federal, and private sponsor regulations, terms, and conditions for grants involving research and training <br> <br>
+
+## Volunteer & Leadership Experience
+* <p>_Event Chair_, **Mailman Mental Health Awareness Integration Forum (MAIF)** <span style="float:right;">January 2021 – Present</span></p>
+* <p>_Community Engagement Committee Member_, **Taiko Community Alliance** <span style="float:right;">May 2020 – Present</span></p>
+* <p>_Columbia Health Hotline Volunteer_, **COVID-19 Student Service Corps (CSSC)** <span style="float:right;">September 2020 – May 2021</span></p>
+* <p>_Director_, **Brown/RISD Gendo Taiko** <span style="float:right;">May 2020 – May 2019</span></p>
+* <p>_Leader_, **Contemplative Studies Department Undergraduate Group (DUG)** <span style="float:right;">September 2018 – May 2019</span></p>
+* <p>_Mentor_, **Brown University Matched Advising Program** <span style="float:right;">September 2017 – September 2019</span></p>
+* <p>_Mentor_, **Brown Elementary Afterschool Mentoring (BEAM)** <span style="float:right;">September  2016 – September 2018</span></p> <br> <br>
+
+## Peer-Reviewed Publications
+
+* Hoge, E.A., Acabchuk, R.L., Kimmel, H., Moitra, E., Britton, W.B., Dumais, T., Ferrer, R.A., Lazar, S.W., Vago, D., Lipsky, J., Schuman-Olivier, Z., Cheaito, A., Sager, L., Peters, S., Rahrig, H., Acero, P., **Scharf, J.**, Loucks, E.B., & Fulwiler, C. (2020). Emotion-related constructs engaged by mindfulness-based interventions: A systematic review and meta-analysis. Mindfulness. doi: 10.1007/s12671-020-01561-w
+* Whitfield, T., Barnhofer, T., Acabchuk, R.L., Cohen, A., Lee, M., Schlosser, M., Arenaza-Urquijo, E.M., Bottcher, A., Britton, W.B., Coll-Padros, N., Collette, F., Chetelat, G., Dautricourt, S. Demnitz-King, H., Dumais, T., Klimecki, O., Meiberth, D., Moulinet, I., Muller, T., Parsons, E., Sager, L., Sannemann, L., **Scharf, J.**, Schild, A., Touron, E., Wirth, M., Walker, Z., Moitra, E., Lutz, A., Lazar, S., Vago, D., & Marchant, N.L. (2021). The Effect of Mindfulness-based Programs on Cognitive Function in Adults: A Systematic Review and Meta-analysis. Neuropsychology Review. doi: 10.1007/s11065-021-09519-y. <br> <br>
+
+## Publications Submitted or In Prep
+* Desbordes, G., Peters, S., Dumais, T., Moitra, E. Lipsky, J. Kimmel, H., Sager, L., Rahrig, H., Cheaito, A., Acero, P., **Scharf, J.**, Lazar, S., Vago., D., Schuman-Olivier, Z., Ferrer, R., Loucks, E., and Britton., W.B. Self-Related Processes Engaged by Mindfulness Based Interventions: A Systematic Review and Evidence Map of Constructs and Measures. _Under review (revise and resubmit status as of 6/30/21)_.
+* Acabchuk, R. L., Hennessy, E. A., Sun, S., George, E. A., Johnson, B. T., **Scharf, J.**, Salmoirago-Blotcher, E., & Loucks, E. B. Health impacts of mindfulness interventions in college students: A systematic review and meta-analysis of randomized controlled trials. _Under review (revise and resubmit status as of 8/1/21)_. Behavior Research and Therapy.
+* Greene, M.C., Bonz, A., Cristobal, M., Vega, C., Andersen, L., Angulo, A., Armijos, A., Benavides, L., de la Cruz, A.,  Lopez, M.J., Moyano, A., Murcia, A., Noboa, M.J., Rodriguez, A., Solis, J., Vergara, D., **Scharf, J.**, Dutt, P., Wainberg, M., & Tol, W. Evaluating the feasibility of a group psychosocial intervention for migrant and host community women in Ecuador and Panamá: Protocol for a MULTI-SITE feasibility trial. _Under review (as of 10/1/2021)_.
+* **Scharf J.**, Bifano, S., Szeglin, C.J., Gold, M.A., & Garbers, S. The effect of 10-minutes of Tapping with Pediatric Emergency Department staff during the COVID-19 pandemic: a brief report. _In preparation_.
+
+* Falb, K., Colleen, G., **Scharf, J.**, Hussein, Lomena, & Blackwell, A. Children’s schooling experiences in South Sudan: disruption, safety, gender discrimination, and hope for the future. _In preparation_. <br> <br>
+
+## Conference Abstracts & Presentations
+
+* Dumais, T., Peters, S., Moitra E., Loucks, E., Schuman Olivier, Z., Lazar, S.W., Ferrer, R., Vago, D., Lipsky, J., Lindahl, J., Kimmel, H., Sager, L., Rahrig, H., Acero, H., **Scharf, J.**, Acabchuk, R., Britton, W.B. and Desbordes, G. (2018). Systematic Review of Self-Related Processes as Potential Mechanisms of Action of Mindfulness-Based Interventions. International Symposium for Contemplative Research, Phoenix, AZ. November 8–11.
+* Acabchuk R.L., Hennessy E., George E.A., **Scharf, J.**, Salmoirago-Blotcher, E., Johnson, T.B., & Loucks, E.B. Mindfulness interventions and college student mental health: A systematic review and meta-analysis. (2018). Society for Prevention Research Annual Meeting, Washington, DC. May 29-June 1. https://spr.confex.com/spr/spr2018/webprogram/Paper27184.html. Abstract of Distinction. <br> <br>
+
+## Skills
+•	**Data Analysis**: Quantitative (SPSS, R, SAS, Excel VLOOKUP/Pivot Tables) | Qualitative (Dedoose, N.Vivo) <br>
+•	**Data Management**: REDCap, Qualtrics, DHIS (District Health Information Software) | Citations (Zotero, Endnote) <br>
+•	**Computer & Productivity Software**: MS Office (Word, Excel, PowerPoint, Outlook) | Google Suite | Online Conferencing (Zoom, Microsoft Teams) | Project Tracking (Trello, Slack, Asana, Airtable) <br>
+•	**Graphic Design**: Adobe Creative Cloud (Photoshop, Illustrator, InDesign, After Effects, Premier Pro) <br>
+•	**Certifications**: HIPAA Patient Privacy | CITI Human Subjects Protection <br>
+•	**Languages**: Korean (Fluent) | French (Intermediate)
