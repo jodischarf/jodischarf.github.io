@@ -94,7 +94,8 @@ density_ggplot =
   theme_bw() +
   labs(x = "Order hour of day", 
        y = "Denstiy") + 
-  viridis::scale_fill_viridis(discrete = TRUE)
+  viridis::scale_fill_viridis(discrete = TRUE) + 
+  guides(fill = guide_legend(title = "Day"))
 
 ggplotly(density_ggplot, height = 600, width = 800)
 ```
