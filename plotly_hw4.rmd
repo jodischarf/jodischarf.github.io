@@ -90,12 +90,11 @@ instacart_df %>%
 density_ggplot =
   instacart_df %>%
   ggplot(aes(x = order_hour_of_day, fill = order_dow)) +
-  geom_density(alpha = 0.2) +
+  geom_density(alpha = 0.25) +
   theme_bw() +
   labs(x = "Order hour of day", 
        y = "Denstiy") + 
-  viridis::scale_fill_viridis(discrete = TRUE) + 
-  guides(fill = guide_legend(title = "Day"))
+  viridis::scale_fill_viridis(discrete = TRUE)
 
 ggplotly(density_ggplot, height = 600, width = 800)
 ```
