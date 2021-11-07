@@ -85,28 +85,63 @@ May 2019 <br> <br>
 * <p>_Mentor_, **Brown University Matched Advising Program** <span style="float:right;">September 2017 – September 2019</span></p>
 * <p>_Mentor_, **Brown Elementary Afterschool Mentoring (BEAM)** <span style="float:right;">September  2016 – September 2018</span></p> <br> <br>
 
-## Peer-Reviewed Publications
+## Publications {.tabset}
 
+### Publications in Peer-Reviewed Journals
 * Hoge, E.A., Acabchuk, R.L., Kimmel, H., Moitra, E., Britton, W.B., Dumais, T., Ferrer, R.A., Lazar, S.W., Vago, D., Lipsky, J., Schuman-Olivier, Z., Cheaito, A., Sager, L., Peters, S., Rahrig, H., Acero, P., **Scharf, J.**, Loucks, E.B., & Fulwiler, C. (2020). Emotion-related constructs engaged by mindfulness-based interventions: A systematic review and meta-analysis. Mindfulness. doi: 10.1007/s12671-020-01561-w
+
 * Whitfield, T., Barnhofer, T., Acabchuk, R.L., Cohen, A., Lee, M., Schlosser, M., Arenaza-Urquijo, E.M., Bottcher, A., Britton, W.B., Coll-Padros, N., Collette, F., Chetelat, G., Dautricourt, S. Demnitz-King, H., Dumais, T., Klimecki, O., Meiberth, D., Moulinet, I., Muller, T., Parsons, E., Sager, L., Sannemann, L., **Scharf, J.**, Schild, A., Touron, E., Wirth, M., Walker, Z., Moitra, E., Lutz, A., Lazar, S., Vago, D., & Marchant, N.L. (2021). The Effect of Mindfulness-based Programs on Cognitive Function in Adults: A Systematic Review and Meta-analysis. Neuropsychology Review. doi: 10.1007/s11065-021-09519-y. <br> <br>
 
-## Publications Submitted or In Prep
+### Publications Submitted or In Preparation
 * Desbordes, G., Peters, S., Dumais, T., Moitra, E. Lipsky, J. Kimmel, H., Sager, L., Rahrig, H., Cheaito, A., Acero, P., **Scharf, J.**, Lazar, S., Vago., D., Schuman-Olivier, Z., Ferrer, R., Loucks, E., and Britton., W.B. Self-Related Processes Engaged by Mindfulness Based Interventions: A Systematic Review and Evidence Map of Constructs and Measures. _Under review (revise and resubmit status as of 6/30/21)_.
+
 * Acabchuk, R. L., Hennessy, E. A., Sun, S., George, E. A., Johnson, B. T., **Scharf, J.**, Salmoirago-Blotcher, E., & Loucks, E. B. Health impacts of mindfulness interventions in college students: A systematic review and meta-analysis of randomized controlled trials. _Under review (revise and resubmit status as of 8/1/21)_. Behavior Research and Therapy.
+
 * Greene, M.C., Bonz, A., Cristobal, M., Vega, C., Andersen, L., Angulo, A., Armijos, A., Benavides, L., de la Cruz, A.,  Lopez, M.J., Moyano, A., Murcia, A., Noboa, M.J., Rodriguez, A., Solis, J., Vergara, D., **Scharf, J.**, Dutt, P., Wainberg, M., & Tol, W. Evaluating the feasibility of a group psychosocial intervention for migrant and host community women in Ecuador and Panamá: Protocol for a MULTI-SITE feasibility trial. _Under review (as of 10/1/2021)_.
+
 * **Scharf J.**, Bifano, S., Szeglin, C.J., Gold, M.A., & Garbers, S. The effect of 10-minutes of Tapping with Pediatric Emergency Department staff during the COVID-19 pandemic: a brief report. _In preparation_.
 
 * Falb, K., Colleen, G., **Scharf, J.**, Hussein, Lomena, & Blackwell, A. Children’s schooling experiences in South Sudan: disruption, safety, gender discrimination, and hope for the future. _In preparation_. <br> <br>
 
-## Conference Abstracts & Presentations
+### Conference Abstracts & Presentations
 
 * Dumais, T., Peters, S., Moitra E., Loucks, E., Schuman Olivier, Z., Lazar, S.W., Ferrer, R., Vago, D., Lipsky, J., Lindahl, J., Kimmel, H., Sager, L., Rahrig, H., Acero, H., **Scharf, J.**, Acabchuk, R., Britton, W.B. and Desbordes, G. (2018). Systematic Review of Self-Related Processes as Potential Mechanisms of Action of Mindfulness-Based Interventions. International Symposium for Contemplative Research, Phoenix, AZ. November 8–11.
+
 * Acabchuk R.L., Hennessy E., George E.A., **Scharf, J.**, Salmoirago-Blotcher, E., Johnson, T.B., & Loucks, E.B. Mindfulness interventions and college student mental health: A systematic review and meta-analysis. (2018). Society for Prevention Research Annual Meeting, Washington, DC. May 29-June 1. https://spr.confex.com/spr/spr2018/webprogram/Paper27184.html. Abstract of Distinction. <br> <br>
 
-## Skills
-•	**Data Analysis**: Quantitative (SPSS, R, SAS, Excel VLOOKUP/Pivot Tables) | Qualitative (Dedoose, N.Vivo) <br>
-•	**Data Management**: REDCap, Qualtrics, DHIS (District Health Information Software) | Citations (Zotero, Endnote) <br>
-•	**Computer & Productivity Software**: MS Office (Word, Excel, PowerPoint, Outlook) | Google Suite | Online Conferencing (Zoom, Microsoft Teams) | Project Tracking (Trello, Slack, Asana, Airtable) <br>
-•	**Graphic Design**: Adobe Creative Cloud (Photoshop, Illustrator, InDesign, After Effects, Premier Pro) <br>
-•	**Certifications**: HIPAA Patient Privacy | CITI Human Subjects Protection <br>
-•	**Languages**: Korean (Fluent) | French (Intermediate)
+## Skills {.tabset}
+
+### Data Analysis
+
+* **Quantitative** (SPSS, R, SAS, Excel VLOOKUP/Pivot Tables)
+* **Qualitative** (Dedoose, N.Vivo) 
+
+### Data Management
+
+* **REDCap**
+* **Qualtrics**
+* **DHIS** (District Health Information Software)
+* **Citations** (Zotero, Endnote, Mendely)
+
+### Productivity Software
+
+* **MS Office** (Word, Excel, PowerPoint, Outlook)
+* **Google Suite** (Docs, Sheets, Slides)
+* **Online Conferencing** (Zoom, Microsoft Teams)
+* **Project Tracking** (Trello, Slack, Asana, Airtable)
+
+### Graphic Design
+* **Adobe Creative Cloud** (Photoshop, Illustrator, InDesign, After Effects, Premier Pro)
+
+### Certifications
+
+* **HIPAA Patient Privacy**
+* **CITI Human Subjects Protection**
+* **American Red Cross First Aid**
+
+### Languages
+
+* **Korean** (Fluent)
+* **French** (Intermediate)
+
+

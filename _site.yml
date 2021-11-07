@@ -5,9 +5,13 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Plotly"
+    - text: "HW 4 Plotly"
+      href: plotly_hw4.html
+    - text: "HW 4 Dashboard"
+      href: dashboard_hw4.html
+    - text: "P8105 In-Class Plotly"
       href: plotly.html
-    - text: "Dashboard"
+    - text: "P8105 In-Class Dashboard"
       href: dashboard.html
     - icon: fa-paper-plane fa-lg
       href: mailto:<jodi.scharf@columbia.com>

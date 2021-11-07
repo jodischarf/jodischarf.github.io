@@ -1,10 +1,16 @@
 ---
-title: "Dashboard"
+title: "P105 In-Class Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
     source: embed
+    navbar:
+      - { title: "Home", href: index.html, align: right }
+      - { title: "Plotly for this dashboard", href: plotly.html, align: right }
+      - { icon: fa-paper-plane, href: mailto:<jodi.scharf@columbia.com>, align: right }
+      - { icon: fa-linkedin, href: "https://www.linkedin.com/in/jodischarf/", align: right }
+      - { icon: fa-github, href: "http://github.com/jodischarf/", align: right }
 ---
 
 ```{r setup, include=FALSE}

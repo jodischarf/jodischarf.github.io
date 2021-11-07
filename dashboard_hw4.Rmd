@@ -1,0 +1,99 @@
+---
+title: "HW 4 Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+    navbar:
+      - { title: "Home", href: index.html, align: right }
+      - { title: "Plotly for this dashboard", href: plotly_hw4.html, align: right }
+      - { icon: fa-paper-plane, href: mailto:<jodi.scharf@columbia.com>, align: right }
+      - { icon: fa-linkedin, href: "https://www.linkedin.com/in/jodischarf/", align: right }
+      - { icon: fa-github, href: "http://github.com/jodischarf/", align: right }
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+library(flexdashboard)
+```
+
+```{r dataset}
+instacart_df =
+  p8105.datasets::instacart %>% 
+  sample_n(1000) %>% 
+  janitor::clean_names() %>% 
+  mutate(order_id = as.factor(order_id), 
+         order_dow = order_dow + 1)
+# changing up the factoring of order day for plotting
+days <- c("Sunday", "Monday", "Tuesday", "Wednesday",
+          "Thursday", "Friday", "Saturday")
+instacart_df$order_dow <- days[instacart_df$order_dow]
+instacart_df$order_dow <- fct_relevel(instacart_df$order_dow,
+                                    "Sunday", "Monday", "Tuesday", "Wednesday",
+                                    "Thursday", "Friday", "Saturday")
+```
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Box plot: Order time by department
+
+```{r boxplot, dpi = 300}
+box_ggplot =
+  instacart_df %>%  
+  ggplot(aes(x = department, y = order_hour_of_day, fill = department)) + 
+  geom_boxplot() + 
+  coord_flip() +
+  theme_bw() + 
+  viridis::scale_fill_viridis(discrete = TRUE) + 
+  labs(y = "Hour of the day",
+       x = "Department") + 
+  theme(legend.position = "none")
+
+ggplotly(box_ggplot)
+```
+
+
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Bar plot: Number of orders by department
+
+```{r barchart, dpi = 300}
+# changing axis labels
+x_lab = list(title = "Department")
+y_lab = list(title = "Number of Orders")
+
+# creating a bar plot of number of orders by department
+instacart_df %>% 
+  group_by(department) %>% 
+  summarize(numb_orders = n()) %>% 
+  mutate(department = as.factor(department), 
+        department = fct_reorder(department, numb_orders)) %>% 
+  plot_ly(x = ~department, 
+          y = ~numb_orders, 
+          color = ~department, 
+          type = "bar", 
+          colors = "viridis") %>% 
+  layout(xaxis = x_lab, yaxis = y_lab)
+```
+
+### Density plot: Order time distribution
+
+```{r density, dpi = 300}
+# creating a density plot of order time by order day
+density_ggplot =
+  instacart_df %>%
+  ggplot(aes(x = order_hour_of_day, fill = order_dow)) +
+  geom_density(alpha = 0.2) +
+  theme_bw() +
+  labs(x = "Order hour of the day (24hr)", 
+       y = "Denstiy") + 
+  viridis::scale_fill_viridis(discrete = TRUE) + 
+  guides(fill = guide_legend(title = "Day"))
+
+ggplotly(density_ggplot)
+```
